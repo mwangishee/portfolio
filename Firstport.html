@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Portfolio</title>
+
+        <link rel="stylesheet" href="styles.css">
+
+
+    </head>
+</html>
+
+
+<div class="main">
+ <div class="navbar">
+    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+    <ul>
+        <li><a href="#"> HOME</a></li>
+        <li><a href="#"> ABOUT</a></li>
+        <li><a href="#"> EDUCATIONAL BACKGROUND</a></li>
+        <li><a href="#"> INTERESTS </a></li>
+        <li><a href="#"> PROJECTS</a></li>
+        <li><a href="#"> CONTACT FORM</a></li>
+    </ul>
+ </div>
+
+  <div class="info">
+     <h1>Hi there, Welcome to my Portfolio!😃</h1>
+    <p>I'm Sheila, a very enthusiastic and self-driven Software Engineer who enjoys building new digitalized solutions.<br>I am always open to learning new tech-related content that helps make the world a better, comfortable place.</p><br>
+
+        <h2>📫Programming Languages</h2>
+        <ol>
+            <li>Php</li>
+            <li>C language</li>
+            <li>Python</li>
+            <li>Javascript</li>
+            
+        </ol><br>
+     <h2>👨‍💻About Sheila</h2>
+     <p>Not to brag but i'm a very self-driven, passionate software engineer that loves to build solutions to every-day problems.<br>My passion grew in campus since i was always interested in how coding works and where it would take me.<br> Everyday my interests grow and curiosity changes as i enjoy working on projects.<br> Software developing helps me keep myself on toes by exploring both logic and creativity. Definitely the only brain teaser that i enjoy.</p><br>
+     
+
+     <h2>📝Educational Background</h2>
+     <p>Who said you can only prosper in life if you went to campus with an A!Well i am here to prove you wrong! <br> I achieved a diploma and bachelors degree in the prestigious Jomo Kenyatta University Of Agriculture and Technology.<br></p>
+   <p><a href="https://CV.com/Sheila_Mwangi_CV.pdf">Download My CV</a></p><br>
+
+        <h2>🤗Interests</h2>
+        1.Mentoring peers on the software development industry<br>
+        2.Building user-friendly start-ups that make life easy.<br>
+        3.Starting my own tech company and create employment and nourish potential and tech skills.<br>
+        4.Collaborate with high profile tech companies and share innovative ideas ,team up and build functional softwares.<br>
+        5.Lastly , of course , increase my pay roll ha!<br>
+        <br>
+        
+    <h2>🔭Projects</h2>
+    <p>Really exciting projects i have worked on. To access them all, click my github link below:<br></p>
+    <p><a href="https://github.com/mwangishee/mwangishee/tree/main">Project github link</a></p><br>
+    
+<h2>📫Contact Me</h2>
+<p>For more information and collaboration,</p>
+<p><a href="wmsheila9@gmail.com">Gmail account</a></p>
+<p><a href="https://www.linkedin.com/in/sheila-mwangi-092924287/">LinkedIn account</a></p>
+      
+
+
+
+
+  </div>
+
+</div>
